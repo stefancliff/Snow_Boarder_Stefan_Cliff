@@ -1,4 +1,4 @@
-# SnowBoarder
+# Snow Boarder
 An attempt at an old-school style 2D snowboarding game with a level restart system, particles and sound effects.
 
 The player can speed up and slow down the boarder, called "Cliffracer" in the scene hierarchy, as well as rotating him left or right to do some flips.
